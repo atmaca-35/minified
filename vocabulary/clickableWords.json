@@ -1,0 +1,600 @@
+{
+  "clickableWords": {
+    "*-im": [
+      [
+        "9 *til-",
+        "“to split, cut in slices”",
+        "5 *tilim",
+        "“slice”"
+      ],
+      [
+        "4 *keḏ-",
+        "“to put on”",
+        "5 *keḏim",
+        "“clothes, clothing”"
+      ]
+    ],
+    "*+*ïl": [
+      [
+        "1 *yaĺ",
+        "“young, fresh, moist”",
+        "1 *yaĺïl",
+        "“green”"
+      ],
+      [
+        "1 *kïrïg",
+        "“angry”",
+        "1 *kïrgïl",
+        "“red”"
+      ]
+    ],
+    "*-l": [
+      [
+        "4 *ïna-",
+        "“to trust”",
+        "9 *ïnal",
+        "“trusted”"
+      ],
+      [
+        "4 *tüke-",
+        "“to come to an end”",
+        "1 *tükel",
+        "“perfect”"
+      ]
+    ],
+    "*+ir-": [
+      [
+        "5 *eb",
+        "“house”",
+        "9 *ebir-",
+        "“to turn”"
+      ],
+      [
+        "1 *köp",
+        "“many”",
+        "4 *köpir-",
+        "“to foam”"
+      ]
+    ],
+    "*+gir-": [
+      [
+        "5 *keḏ",
+        "“reputation”",
+        "4 *keḏgir-",
+        "“to rear up”"
+      ]
+    ],
+    "*-ir-": [
+      [
+        "9 *eg-",
+        "“to bend”",
+        "9 *egir-",
+        "“to spin”"
+      ],
+      [
+        "4 *teg-",
+        "“to touch”",
+        "9 *tegir-",
+        "“to spin”"
+      ]
+    ],
+    "*-gïr-": [
+      [
+        "9 *taĺu--",
+        "“to move”",
+        "9 *tāĺugïr-",
+        "“to take out”"
+      ]
+    ],
+    "*+kïr-": [
+      [
+        "3 *ay",
+        "“exclamation of pain: ouch!”",
+        "4 *aykïr-",
+        "“to shout, to scream, to exclaim”"
+      ],
+      [
+        "3 *kï",
+        "“?”",
+        "4 *kïkïr-",
+        "“to yell”"
+      ]
+    ],
+    "*-ru": [
+      [
+        "9 *āĺ-",
+        "“to pass, to surpass”",
+        "1 *āĺru",
+        "“excessive, extreme”"
+      ]
+    ],
+     "*-rü": [
+      [
+        "9 *öt-",
+        "“to pass by”",
+        "7 *ötrü",
+        "“due to”"
+      ]
+    ],
+    "*+rek-": [
+      [
+        "1 *yẹg",
+        "“good, better”",
+        "1 *yẹgrek",
+        "“preferable”"
+      ],
+      [
+        "1 *bek",
+        "“firm, solid”",
+        "1 *bekrek",
+        "“superior”"
+      ]
+    ],
+    "*-yu": [
+      [
+        "1 *ogra-",
+        "“to meet; to intend”",
+        "1 *ograyu",
+        "“especially”"
+      ],
+      [
+        "9 *ula-",
+        "“to attach, join (ends)”",
+        "2 *ulayu",
+        "“and, also”"
+      ]
+    ],
+    "*-ïr-": [
+      [
+        "9 *sïḏ-",
+        "“to break, damage, harm”",
+        "9 *sïḏïr-",
+        "“to rub off, peel off”"
+      ],
+      [
+        "9 *aḏ-",
+        "“to part”",
+        "9 *aḏïr-",
+        "“to seperate”"
+      ]
+    ],
+    "*-gür-": [
+      [
+        "9 *bel-",
+        "“to denote, designate”",
+        "9 *belgür-",
+        "“to appear”"
+      ],
+      [
+        "4 *üş-",
+        "“to crowd”",
+        "4 *üşgür-",
+        "“to attack in swarm”"
+      ],
+      [
+        "4 *keḏ-",
+        "“to put on”",
+        "9 *keḏgür-",
+        "“to clothe”"
+      ]
+    ],
+    "*-ür-": [ 
+      [
+        "4 *köt-",
+        "“to raise”",
+        "9 *kötür-",
+        "“to carry, take away”"
+      ],
+      [
+        "4 *siŋ-",
+        "“to sink, submerge”",
+        "9 *siŋür-",
+        "“to quaff, to devour”"
+      ]
+    ],
+    "*-gur-": [
+      [
+        "9 *oḏ-",
+        "“to be awake”",
+        "9 *oḏgur-",
+        "“to wake”"
+      ],
+      [
+        "9 *kaḏ-",
+        "“to turn”",
+        "9 *kaḏgur-",
+        "“to take ones care of”"
+      ]
+    ],
+    "*+ï-": [
+      [
+        "1 *yabïŕ",
+        "“bad”",
+        "4 *yabrï-",
+        "“to fade, wilt”"
+      ],
+      [
+        "5 *agïŕ",
+        "“mouth”",
+        "4 *agrï-",
+        "“to ache”"
+      ]
+    ],
+    "*+i-": [
+      [
+        "1 *sēkiŕ",
+        "“vivid, lively, energetic”",
+        "4 *sēkri-",
+        "“to jump, start off”"
+      ],
+      [
+        "1 *semiŕ",
+        "“fat”",
+        "4 *semri-",
+        "“to fatten”"
+      ]
+    ],
+    "*+dem": [
+      [
+        "5 *teŋri",
+        "“sky deity”",
+        "1 *teŋridem",
+        "“divine”"
+      ],
+      [
+        "5 *bīr",
+        "“one”",
+        "2 *bīrdem",
+         "“together”"
+      ],
+      [
+        "5 *kün",
+        "“sun”",
+        "1 *kündem",
+         "“solar”"
+      ]
+    ],
+    "*-gek": [
+      [
+        "9 *yẹ̄t-",
+        "“to tow”",
+        "5 *yẹ̄tgek",
+        "“saddlebag, bundle”"
+      ],
+      [
+        "4 *eĺč-",
+        "“to walk, trot, amble”",
+        "5 *eĺčgek",
+        "“donkey”"
+      ]
+    ],
+    "*-gak": [
+      [
+        "4 *dam-",
+        "“to drip”",
+        "5 *damgak",
+        "“throat”"
+      ],
+      [
+        "9 *or-",
+        "“to mow, reap”",
+        "5 *orgak",
+        "“sickle”"
+      ],
+      [
+        "9 *bïč-",
+        "“to cut”",
+        "5 *bïčgak",
+        "“knife”"
+      ]
+    ],
+    "*-ge": [
+      [
+        "9 *bil-",
+        "“to know”",
+        "5 *bilge",
+        "“wise, counselor, advisor”"
+      ],
+      [
+        "9 *yīnč-",
+        "“to shrink, to grow smaller”",
+        "5 *yīnčge",
+        "“thin”"
+      ]
+    ],
+    "*-ga": [
+      [
+        "9 *kïs-",
+        "“to squeeze”",
+        "1 *kïsga",
+        "“brief”"
+      ],
+      [
+        "4 *sïrïč-",
+        "“to smear”",
+        "5 *sïrïčga",
+        "“rock crystal, glass”"
+      ]
+    ],
+    "*+te-": [
+      [
+        "5 *ǖn",
+        "“voice (of human or animal); sound”",
+        "9 *ǖnte-",
+        "“to call ”"
+      ],
+      [
+        "5 *īŕ",
+        "“trace”",
+        "9 *īrte-",
+        "“to search”"
+      ]
+    ],
+    "*+ta-": [
+      [
+        "5 *āl",
+        "“lie, untruth”",
+        "9 *ālta-",
+        "“to deceive”"
+      ],
+      [
+        "5 *tïl",
+        "“tongue; language”",
+        "4 *tïlta-",
+        "“to cause”"
+      ]
+    ],
+    "*+egü": [
+      [
+        "5 *bīr",
+        "“eight”",
+        "1 *bīregü",
+        "“a person, someone”"
+      ],
+      [
+        "5 *tȫrt",
+        "“four”",
+        "1 *tȫrtegü",
+        "“all four”"
+      ]
+    ],
+    "*+agu": [
+      [
+        "1 *aḏïn",
+        "“other”",
+        "8 *aḏïnagu",
+        "“everybody else”"
+      ],
+      [
+        "5 **kïr",
+        "“mountain”",
+        "5 *kïragu",
+        "“all nine”"
+      ]
+    ],
+    "*+e-": [  
+      [
+        "5 *keŕ",
+        "“nock”",
+        "9 *kere-",
+        "“to need”"
+      ],
+      [
+        "5 *ülüg",
+        "“lot, endowment”",
+        "9 *ülge-",
+        "“to divide, distribute”"
+      ]
+    ],
+    "*+a-": [
+      [
+        "5 *ōyun",
+        "“game”",
+        "4 *ōyna-",
+        "“to play”"
+      ],
+      [
+        "5 *buŋ",
+        "“suffering”",
+        "4 *buŋa-",
+        "“go senile, to become sick”"
+      ],
+      [
+        "5 *tïl",
+        "“tongue, language”",
+        "9 *tïla-",
+        "“to wish”"
+      ]
+    ],
+    "*-e": [
+      [
+        "9 *yȫr-",
+        "“to interpret”",
+        "5 *yȫre",
+        "“area, region, vicinity”"
+      ],
+      [
+        "9 *kör-",
+        "“according to; depending on; respecting”",
+        "7 *köre",
+        "“to take ones care of”"
+      ]
+    ],
+    "*-a": [
+      [
+        "9 *yak-",
+        "“to come near, approach”",
+        "5 *yaka",
+        "“collar; edge”"
+      ],
+      [
+        "9 *tap-",
+        "“to serve”",
+        "7 *tapa",
+        "“towards”"
+      ]
+    ],
+    "*-ŕ": [
+      [
+        "9 *ȫ-",
+        "“to remember”",
+        "5 *ȫŕ",
+        "“self”"
+      ]
+    ],
+    "*-ïŕ": [
+      [
+        "9 *ag-",
+        "“to rise up”",
+        "5 *agïŕ",
+        "“mouth”"
+      ]
+    ],
+    "*-uŕ": [
+      [
+        "9 *bog-",
+        "“to tie up, strangle”",
+        "5 *boguŕ",
+        "“throat”"
+      ]
+    ],
+    "*-üŕ-": [
+      [
+        "9 *em-",
+        "“to suck”",
+        "9  *emüŕ-",
+        "“to suckle”"
+      ]
+    ],
+    "*-uŕ-": [
+      [
+        "4 *tam-",
+        "“to drip”",
+        "9 *tamuŕ-",
+        "“to drop, to spill”"
+      ]
+    ],
+    "*+sa-": [
+      [
+        "5 *kāp",
+        "“sack”",
+        "9 *kapsa-",
+        "“to contain, include”"
+      ]
+    ],
+    "*+se-": [
+      [
+        "5 *yük",
+        "“load”",
+        "9 *yükse-",
+        "“to rise”"
+      ]
+    ],
+    "*-ug": [
+      [
+        "9 *koy-",
+        "“to put”",
+        "1 *koyug",
+        "“thick, saturated”"
+      ]
+    ],
+    "*-üg": [
+      [
+        "9 *öl-",
+        "“to die, to pass away”",
+        "1 *ölüg",
+        "“dead”"
+      ]
+    ],
+    "*-ïg": [
+      [
+        "9 *sïk-",
+        "“to squeeze”",
+        "1 *sïkïg",
+        "“embarrassment, suffering”"
+      ]
+    ],
+    "*-g": [
+      [
+        "4 *āčï-",
+        "“to pity, to hurt, become sour”",
+        "1 *āčïg",
+        "“pain, ache, bitter”"
+      ],
+      [
+        "4 *yalïn-",
+        "“to strip”",
+        "1 *yalïŋ",
+        "“lonely”"
+      ]
+    ],
+    "*-l-": [
+      [
+        "9 *tō-",
+        "“to full”",
+        "4 *tōl-",
+        "“to be full”"
+      ]
+    ],
+    "*-ïl-": [
+    [
+      "9 *aḏïr-",
+      "“to separate”",
+      "4 *aḏrïl-",
+      "“to leave”"
+    ]
+    ],
+    "*-ïk-": [
+      [
+        "4 *ạ̄č-",
+        "“ to hungry”",
+        "4 *ạ̄čïk-",
+        "“be hungry”"
+      ]
+    ],
+    "*-k-": [
+      [
+        "4 *si-",
+        "“to urinate”",
+        "4 *sik-",
+        "“to copulate”"
+      ]
+    ],
+    "*-uk": [
+      [
+        "4 *art-",
+        "“to increase”",
+        "1 *artuk",
+        "“more, much”"
+      ],
+      [
+        "9 *bïč-",
+        "“to cut”",
+        "1 *bïčuk",
+        "“half”"
+      ]
+    ],
+    "*-ük": [
+      [
+        "4 *er-",
+        "“to be”",
+        "5 *erük",
+        "“plum, apricot”"
+      ]
+    ],
+    "*-k": [
+      [
+        "4 *yạĺču-",
+        "“to blaze, flame”",
+        "5 *yạĺčuk",
+        "“light, sun”"
+      ],
+      [
+        "4 *emge-",
+        "“to suffer, be tortured”",
+        "5 *emgek",
+        "“bother, worry, pains”"
+      ]
+    ] 
+  }
+}
